@@ -1,0 +1,32 @@
+/*! # Stinsone Analytical
+Theme Name: Stinson
+Theme URI:
+Description: This is the theme for Stinson
+Author: SFNdesign
+Author URI: http://sfndesign.ca
+Template: genesis
+Template Version: 2.2.2
+Tags: black, orange, white, one-column, two-columns, three-columns, left-sidebar, right-sidebar, responsive-layout, custom-menu, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+License: GPL-2.0+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import 'sass/reset';
+@import 'sass/defaults';
+@import 'sass/structure';
+@import 'sass/common';
+@import 'sass/widgets';
+@import 'sass/plugins';
+@import 'sass/header';
+@import 'sass/navigation';
+@import 'sass/content';
+@import 'sass/sidebars';
+@import 'sass/footer-widgets';
+@import 'sass/footer';
+@import 'sass/media';
+@import 'sass/print';
+
+/*!
+ * Any extra CSS not in LESS can go here if you need it.
+ * Put it below the comments.
+ */
